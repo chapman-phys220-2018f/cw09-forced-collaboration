@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw09-forced-collaboration.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw09-forced-collaboration)
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s): Morgan Holve
 
 ## Specification
 
@@ -29,9 +29,7 @@ The lowest-order error is second-order in $h$, since the first-order error cance
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+Making us think about arrays was helpful in a sense, I guess. Your class still makes me sad.
 
 ## Honor Pledge
 
@@ -41,5 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
 Signed,
-
-**YOURNAMES**
+Morgan Holve
